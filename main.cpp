@@ -21,6 +21,7 @@ void test_empty_list() {
 
 void test_push_operations() {
     std::cout << "Testing push operations...\n";
+    
     ds::List list;
     
     // Test push_front
